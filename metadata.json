@@ -1,0 +1,174 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "dimension": 384,
+  "faqs": [
+    {
+      "id": "faq_001",
+      "category": "pricing",
+      "question": "What is the price of FlowDesk's Free plan?",
+      "answer": "The Free plan is $0/month and supports up to 3 users with access to task boards and basic team chat."
+    },
+    {
+      "id": "faq_002",
+      "category": "pricing",
+      "question": "How much does the Pro plan cost?",
+      "answer": "The Pro plan costs $8 per user per month, billed monthly or annually, and unlocks unlimited users, time tracking, and integrations."
+    },
+    {
+      "id": "faq_003",
+      "category": "pricing",
+      "question": "Does FlowDesk offer Enterprise pricing?",
+      "answer": "Yes, Enterprise pricing is custom and based on team size, support needs, and security requirements. Contact sales for a quote."
+    },
+    {
+      "id": "faq_004",
+      "category": "pricing",
+      "question": "Is there a discount for annual billing?",
+      "answer": "Yes, annual billing on the Pro plan gives you 2 months free compared to paying monthly."
+    },
+    {
+      "id": "faq_005",
+      "category": "pricing",
+      "question": "Can I switch plans at any time?",
+      "answer": "Yes, you can upgrade or downgrade your plan anytime from Account Settings > Billing. Changes take effect immediately."
+    },
+    {
+      "id": "faq_006",
+      "category": "pricing",
+      "question": "Do you offer student or nonprofit discounts?",
+      "answer": "Yes, students and registered nonprofits get 50% off the Pro plan. Apply through the Discounts page with valid documentation."
+    },
+    {
+      "id": "faq_007",
+      "category": "features",
+      "question": "What is a task board in FlowDesk?",
+      "answer": "A task board is a Kanban-style view where tasks move across columns like To Do, In Progress, and Done, helping teams visualize workflow."
+    },
+    {
+      "id": "faq_008",
+      "category": "features",
+      "question": "Can I track time spent on tasks?",
+      "answer": "Yes, time tracking is built into every task. Click the timer icon on any task to start or stop tracking, available on Pro and Enterprise plans."
+    },
+    {
+      "id": "faq_009",
+      "category": "features",
+      "question": "Does FlowDesk support team chat?",
+      "answer": "Yes, every task has a comment thread, and each project has a dedicated team chat channel for discussions outside specific tasks."
+    },
+    {
+      "id": "faq_010",
+      "category": "features",
+      "question": "Can I create custom workflows?",
+      "answer": "Yes, you can add, rename, or reorder board columns to match your team's workflow, available on all plans."
+    },
+    {
+      "id": "faq_011",
+      "category": "features",
+      "question": "Does FlowDesk have a mobile app?",
+      "answer": "Yes, FlowDesk is available on iOS and Android with full task management, chat, and notification support."
+    },
+    {
+      "id": "faq_012",
+      "category": "features",
+      "question": "Can I assign tasks to multiple people?",
+      "answer": "Yes, tasks support multiple assignees along with a single task owner responsible for completion."
+    },
+    {
+      "id": "faq_013",
+      "category": "features",
+      "question": "Is there a calendar view for tasks?",
+      "answer": "Yes, switch from board view to calendar view to see tasks plotted by due date."
+    },
+    {
+      "id": "faq_014",
+      "category": "account_billing",
+      "question": "How do I create a FlowDesk account?",
+      "answer": "Sign up at flowdesk.io/signup using your email or Google account, then verify your email to activate the workspace."
+    },
+    {
+      "id": "faq_015",
+      "category": "account_billing",
+      "question": "How do I invite team members?",
+      "answer": "Go to Workspace Settings > Members > Invite, then enter email addresses. Invitees receive a link to join your workspace."
+    },
+    {
+      "id": "faq_016",
+      "category": "account_billing",
+      "question": "How do I update my payment method?",
+      "answer": "Navigate to Account Settings > Billing > Payment Method, then add or update your card details."
+    },
+    {
+      "id": "faq_017",
+      "category": "account_billing",
+      "question": "How do I cancel my subscription?",
+      "answer": "Go to Account Settings > Billing > Cancel Subscription. Your plan remains active until the end of the current billing cycle."
+    },
+    {
+      "id": "faq_018",
+      "category": "account_billing",
+      "question": "Can I get a refund?",
+      "answer": "Refunds are available within 14 days of purchase for annual plans. Contact billing support to request one."
+    },
+    {
+      "id": "faq_019",
+      "category": "account_billing",
+      "question": "How do I delete my account?",
+      "answer": "Go to Account Settings > Danger Zone > Delete Account. This permanently removes all your data after a 30-day grace period."
+    },
+    {
+      "id": "faq_020",
+      "category": "account_billing",
+      "question": "I forgot my password, how do I reset it?",
+      "answer": "Click 'Forgot Password' on the login page and follow the reset link sent to your registered email."
+    },
+    {
+      "id": "faq_021",
+      "category": "integrations",
+      "question": "Does FlowDesk integrate with Slack?",
+      "answer": "Yes, connect Slack from Workspace Settings > Integrations to get task notifications directly in your Slack channels."
+    },
+    {
+      "id": "faq_022",
+      "category": "integrations",
+      "question": "Can I sync FlowDesk with Google Calendar?",
+      "answer": "Yes, enable Google Calendar sync from Integrations settings to see task due dates automatically on your calendar."
+    },
+    {
+      "id": "faq_023",
+      "category": "integrations",
+      "question": "Does FlowDesk have an API?",
+      "answer": "Yes, FlowDesk offers a REST API on Pro and Enterprise plans for custom integrations. API keys are generated in Developer Settings."
+    },
+    {
+      "id": "faq_024",
+      "category": "integrations",
+      "question": "Can I connect FlowDesk to GitHub?",
+      "answer": "Yes, the GitHub integration links commits and pull requests to tasks automatically when you mention a task ID in your commit message."
+    },
+    {
+      "id": "faq_025",
+      "category": "troubleshooting",
+      "question": "Why is my task board not loading?",
+      "answer": "This is usually a temporary sync issue. Refresh the page; if the problem persists, clear your browser cache or check FlowDesk's status page."
+    },
+    {
+      "id": "faq_026",
+      "category": "troubleshooting",
+      "question": "Why am I not receiving email notifications?",
+      "answer": "Check Account Settings > Notifications to confirm email alerts are enabled, and verify the emails aren't in your spam folder."
+    },
+    {
+      "id": "faq_027",
+      "category": "troubleshooting",
+      "question": "Why can't I invite a new team member?",
+      "answer": "This usually happens when your workspace has hit its user limit on the Free plan. Upgrade to Pro for unlimited members."
+    },
+    {
+      "id": "faq_028",
+      "category": "troubleshooting",
+      "question": "The Slack integration stopped working, what do I do?",
+      "answer": "Disconnect and reconnect the Slack integration from Workspace Settings > Integrations. This refreshes the authorization token."
+    }
+  ]
+}
